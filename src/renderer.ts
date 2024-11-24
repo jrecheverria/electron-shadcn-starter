@@ -27,7 +27,7 @@
  */
 
 // # src/renderer.ts
-import './libs/globals.css'
+import './index.css'
 import './app' // <== add this line
 
 

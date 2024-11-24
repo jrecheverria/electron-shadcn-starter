@@ -1,6 +1,6 @@
 // # src/app.tsx
 
-import './libs/globals.css'; // import css
+import './index.css'; // import css
 
 import * as React from "react";
 import { createRoot } from "react-dom/client";
